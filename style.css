@@ -92,7 +92,7 @@ body {
     }
 
     .background_last_banner {
-        background-image: url("img/texture-paper.png"), url("img/agence-la-panthere.jpg");
+        background-image: url("img/texture-paper.png"), url("img/agence-la-panthere.avif");
     background-size: 100% 100%;
     }
 
@@ -917,7 +917,7 @@ h4 {
 } */
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.jpg");
+    background-image: url("img/image-de-presentation.avif");
 }
 
 @media (max-width: 1024px) {
