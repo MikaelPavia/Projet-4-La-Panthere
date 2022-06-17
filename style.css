@@ -101,10 +101,11 @@ a[data-lightbox]:hover::before {
     color: #822a00 !important;
 }
 
-.background_last_banner {
-    background-image: url("img/texture-paper.png"), url("img/agence-la-panthere.avif");
+/* .background_last_banner {
+    background-image: url("img/texture-paper.png"); 
+    background-image: url("img/agence-la-panthere.avif");
     background-size: 100% 100%;
-}
+} */
 
 .form-group label {
     font-size: 18px;
