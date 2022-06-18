@@ -16,8 +16,9 @@ body {
 }
 
 .black-background {
-    background-color: rgba(114, 101, 66, 0.85);
+    background-color: rgba(114, 101, 66, 0.65);
     padding: 40px 40px 40px 40px;
+    border-radius: 50px;
 }
 
 .tc-white {
