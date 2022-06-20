@@ -1179,7 +1179,9 @@ h4 {
         justify-content: center;
     }
 }
-
+.blockquote {
+    font-size: 17px;
+}
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
